@@ -1,6 +1,8 @@
 # Telegram-Rocket-Download-Free
 INCREASE MEMBERS WITH TELEGRAM BOT THAT EXPORT &amp; ADD MEMBERS TO GROUPS &amp; CHANNELS
 
+<img src="https://raw.githubusercontent.com/kerorokerori/Telegram-Rocket-Download-Free/main/telegram_rocket.png" alt="Telegram Members Adder & Scraper Bot by TelegramRocket" width="1280">
+
 
 <h2><strong>Why choose Telegram Rocket Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member/Join Group?</strong>
 <strong><i>Support Mac and Windows</i></strong>
