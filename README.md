@@ -49,7 +49,7 @@ INCREASE MEMBERS WITH TELEGRAM BOT THAT EXPORT &amp; ADD MEMBERS TO GROUPS &amp;
 Website: <a href="https://telegramrocket.com">www.telegramrocket.com</a><br>
 Video Demo: <a href="https://www.youtube.com/watch?v=deUVBgBADnk">www.youtube.com/watch?v=deUVBgBADnk</a><br>
 
-<img src="https://telegramrocket.com/wp-content/uploads/2021/04/New-Telegram-Rocket-Template.gif" alt="Telegram Members Adder & Scraper Bot by TelegramRocket" width="1280" height="720">
+<img src="https://telegramrocket.com/wp-content/uploads/2021/04/New-Telegram-Rocket-Template.gif" alt="Telegram Members Adder & Scraper Bot by TelegramRocket" width="1280">
 
 <ul>
 <li>Our solution makes you faster, more convenient, easier and safer</li>
