@@ -6,8 +6,6 @@ INCREASE MEMBERS WITH TELEGRAM BOT THAT EXPORT &amp; ADD MEMBERS TO GROUPS &amp;
 
 <h2><strong>Why choose Telegram Rocket Marketing Tools Bulk Scraper/Extract/Add/Search/Invite Member/Join Group?</strong>
 <strong><i>Support Mac and Windows</i></strong>
-<p><i>We are the Number 1 Best Selling Telegram Bot in Codecanyon with 188+ Sales</i><br>
-<i>Lifetime License with Lifetime Update (Stable Release)</i></p>
 </h2>
 
 
